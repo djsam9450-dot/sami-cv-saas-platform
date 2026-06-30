@@ -7,7 +7,7 @@ module.exports = mod;
 }),
 "[project]/src/app/favicon.ico (static in ecmascript, tag client)", ((__turbopack_context__) => {
 
-__turbopack_context__.v("/_next/static/media/favicon.0lueu4nmlhndk.ico" + (globalThis["NEXT_CLIENT_ASSET_SUFFIX"] || ''));}),
+__turbopack_context__.v("/_next/static/media/favicon.0egc2p2z2wnb6.ico" + (globalThis["NEXT_CLIENT_ASSET_SUFFIX"] || ''));}),
 "[project]/src/app/favicon.ico.mjs { IMAGE => \"[project]/src/app/favicon.ico (static in ecmascript, tag client)\" } [app-rsc] (structured image object, ecmascript)", ((__turbopack_context__) => {
 "use strict";
 

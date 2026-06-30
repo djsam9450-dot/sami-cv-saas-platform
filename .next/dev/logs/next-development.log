@@ -3,3 +3,151 @@
 {"timestamp":"00:10:23.432","source":"Server","level":"LOG","message":"✓ Compiled in 1145ms"}
 {"timestamp":"00:12:37.882","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
 {"timestamp":"00:22:14.150","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:24:52.502","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:30:04.362","source":"Server","level":"LOG","message":"✓ Compiled in 772ms"}
+{"timestamp":"00:30:06.130","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.131","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.132","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.132","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.132","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.132","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.132","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:06.132","source":"Browser","level":"ERROR","message":"uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization."}
+{"timestamp":"00:30:16.839","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.840","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.854","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.855","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.855","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.856","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.856","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.856","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.857","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.857","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.858","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.858","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.858","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.859","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.859","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.859","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.860","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.860","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.861","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.861","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.862","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.862","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.862","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.863","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.863","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.863","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.863","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.864","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.864","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.864","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.865","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.865","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.865","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.866","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.866","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.866","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.867","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.867","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.868","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.868","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.869","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.869","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.869","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.870","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.870","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.870","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.871","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.871","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.871","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.872","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.872","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.872","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.873","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.873","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.874","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.874","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.874","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.875","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.875","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.875","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.876","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.876","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.876","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.878","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.878","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.878","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.878","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.879","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.879","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.879","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.879","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.880","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.880","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.880","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.881","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.881","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.882","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.882","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.883","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.883","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.884","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.884","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.884","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.885","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.885","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.886","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.886","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.886","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.887","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.887","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.887","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.887","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.888","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.889","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:16.889","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\\u001b[39m\""}
+{"timestamp":"00:30:16.890","source":"Browser","level":"ERROR","message":"\u001b[31mUncaught Error: Internal Next.js error: Router action dispatched before initialization.\u001b[39m"}
+{"timestamp":"00:30:27.605","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:30:41.856","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
