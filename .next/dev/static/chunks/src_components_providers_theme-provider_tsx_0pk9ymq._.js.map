@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/djsam/Desktop/ai-cv-saas-platform/src/components/providers/theme-provider.tsx"],"sourcesContent":["\"use client\";\n\nimport { ThemeProvider as NextThemesProvider } from \"next-themes\";\nimport type { ReactNode } from \"react\";\n\nexport function ThemeProvider({ children }: { children: ReactNode }) {\n  return (\n    <NextThemesProvider\n      attribute=\"class\"\n      defaultTheme=\"system\"\n      enableSystem\n      disableTransitionOnChange\n    >\n      {children}\n    </NextThemesProvider>\n  );\n}\n"],"names":["ThemeProvider","children","attribute","defaultTheme","enableSystem","disableTransitionOnChange"],"mappings":";;;;;AAEA;AAFA;;;AAKO,SAASA,cAAc,EAAEC,QAAQ,EAA2B;IACjE,qBACE,6LAAC,oKAAkB;QACjBC,WAAU;QACVC,cAAa;QACbC,YAAY;QACZC,yBAAyB;kBAExBJ;;;;;;AAGP;KAXgBD"}}]
+}
